@@ -1,2 +1,1 @@
-# investment
-investment knowledge
+# 投资文章汇总
